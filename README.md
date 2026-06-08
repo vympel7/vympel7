@@ -13,3 +13,6 @@ Computer Science student, decent code writer, feared code reviewer, pure math en
 [![](https://skillicons.dev/icons?i=py,c,cs,unity,godot,docker)](https://skillicons.dev)
 <img src="https://images.seeklogo.com/logo-png/44/1/ghidra-logo-png_seeklogo-445232.png" width="48px" height="48px"></img>
 <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/wireshark.png" width="48px" height="48px"></img>
+
+##
+_(most of my repositories are private)_
